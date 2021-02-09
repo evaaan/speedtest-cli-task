@@ -1,0 +1,5 @@
+2021-02-09 11:37:00,191: Creating new csv file: C:\Users\Evan\speedtest-cli-task\log\results.csv
+2021-02-09 11:37:00,191: Running speedtest..
+2021-02-09 11:37:23,323: Speedtest run captured
+2021-02-09 11:52:00,178: Running speedtest..
+2021-02-09 11:52:22,036: Speedtest run captured
