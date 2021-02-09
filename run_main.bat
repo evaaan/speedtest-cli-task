@@ -1,0 +1,2 @@
+
+C:\Users\\Evan\speedtest-cli-task\venv\scripts\python.exe C:\Users\\Evan\speedtest-cli-task\main.py "C:\\Users\\Evan\\speedtest-cli-task\\log\\results.csv" "C:\\Users\\Evan\\speedtest-cli-task\\log\\logs.txt"

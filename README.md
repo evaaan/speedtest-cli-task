@@ -24,6 +24,9 @@ optional arguments:
 
 ## Example
 
+```
+> python main.py results.csv log.txt
+```
 
 # Test
 ```
