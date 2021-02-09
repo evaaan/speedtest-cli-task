@@ -5,3 +5,9 @@
 2021-02-09 11:52:22,036: Speedtest run captured
 2021-02-09 12:07:00,192: Running speedtest..
 2021-02-09 12:07:21,697: Speedtest run captured
+2021-02-09 12:21:10,932: Running speedtest..
+2021-02-09 12:21:32,490: Speedtest run captured
+2021-02-09 12:22:00,221: Running speedtest..
+2021-02-09 12:22:22,364: Speedtest run captured
+2021-02-09 12:29:00,180: Running speedtest..
+2021-02-09 12:29:21,717: Speedtest run captured
